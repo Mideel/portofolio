@@ -1,0 +1,78 @@
+Hi, my name is Benny Susanto, I'm an experienced developer with various skills. Mainly I use Java and Javascript as my primary language and nackend/RESTful API development is my focus are, but I can develop other applications with other languages too. Most of the codes provided in Github were taken from my real project but cut and minified due to the copyright issue. However the code represented shows important parts to build a good application like security, validation, internationalization and localization, etc.
+
+Email me at mideel_neutral@yahoo.com
+
+
+List of projects:
+
+
+________________________________________________________________________________________________________________
+Spring
+***************************************************************************************************************
+
+- PB-Cloud, web services for sales application(minified due to the copyright issue)
+	https://github.com/PB-Cloud
+
+- Sunwell-POS, web services for a pos application(minified due to the copyright issue)
+	https://github.com/Sunwell-POS/web-service
+
+- DANA project, web services for back office admin panel(code isn't available due to the copyright issue)
+
+________________________________________________________________________________________________________________
+Spring Boot
+***************************************************************************************************************
+
+- PB_cloud, web services for sales application(minified due to the copyright issue)
+	https://github.com/PB-Cloud-2/
+
+________________________________________________________________________________________________________________
+Spring Microservices
+***************************************************************************************************************
+
+- PB_cloud, web services for sales application(minified due to the copyright issue)
+	https://github.com/PB-Cloud-3
+
+________________________________________________________________________________________________________________
+JEE
+***************************************************************************************************************
+
+- Stonefire, web services for a food order application(minified due to the copyright issue)
+	https://github.com/PB-Cloud-2/pb-cloud-service
+
+- Aegwyn, web services for a customer feedback application(minified due to copyright issue)
+	https://github.com/Aegwyn2/aegwyn
+
+________________________________________________________________________________________________________________
+Android
+***************************************************************************************************************
+
+- Stonefire, a food order mobile application(minified due to the copyright issue)
+	https://github.com/St0nefire/frontend-mobile
+
+- Sunwell-POS, a mobile POS application(minified due to the copyright issue)
+	https://github.com/Sunwell-POS/android
+
+________________________________________________________________________________________________________________
+JavaFX
+***************************************************************************************************************
+
+- Suzanne-00, a desktop distributor information system(minified due to the copyright issue)
+	https://github.com/Suzanne-00/desktop
+
+________________________________________________________________________________________________________________
+Swing
+***************************************************************************************************************
+
+- Exerphi, distribution information system(code isn't available due to the copyright issue)
+- Apertura, hospital information system(code isn't available due to the copyright issue)
+
+________________________________________________________________________________________________________________
+Angular 4
+***************************************************************************************************************
+
+- Stonefire, a food order web application(minified due to the copyright issue)
+	https://github.com/St0nefire/frontend-web
+- Aegwn, a customer feedback application written in Ionic and Angular 4(minified due to copyright issue)
+	https://github.com/Aegwyn2/feedback-ionic
+
+________________________________________________________________________________________________________________
