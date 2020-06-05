@@ -27,14 +27,14 @@ ________________________________________________________________________________
 Spring Boot
 ***************************************************************************************************************
 
-- PB_cloud, web services for sales application(minified due to the copyright issue)
+- PB-cloud, web services for sales application(minified due to the copyright issue)
 	https://github.com/PB-Cloud-2/
 
 ________________________________________________________________________________________________________________
 Spring Microservices
 ***************************************************************************************************************
 
-- PB_cloud, web services for sales application(minified due to the copyright issue)
+- PB-cloud, web services for sales application(minified due to the copyright issue)
 	https://github.com/PB-Cloud-3
 
 ________________________________________________________________________________________________________________
