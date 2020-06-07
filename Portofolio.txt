@@ -4,7 +4,7 @@ like security, validation, internationalization and localization, etc.
 
 Email me at mideel_neutral@yahoo.com
 
-Profile -> https://github.com/Mideel/profile
+Profile -> https://github.com/Mideel/portofolio/blob/master/Profile.txt
 
 List of projects:
 _______________________________________________________________________________________________________________

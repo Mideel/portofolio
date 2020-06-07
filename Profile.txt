@@ -4,7 +4,7 @@ But I can develop other applications with other languages too.
 
 Email me at mideel_neutral@yahoo.com 
 
-Portofolio -> https://github.com/Mideel/portofolio
+Portofolio -> https://github.com/Mideel/portofolio/blob/master/Portofolio.txt
 
 Main Skills:
 _______________________________________________________________________________________________
