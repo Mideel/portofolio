@@ -1,6 +1,3 @@
-Hi, my name is Benny Susanto, I'm an experienced developer with various skills. 
-Mainly I use Java and Javascript as my primary language and backend/RESTful API development is my focus.
-But I can develop other applications with other languages too. 
 Most of the codes provided in Github were taken from my real project but cut and minified due to the copyright issue. 
 However the code represented shows important parts to build a good application, 
 like security, validation, internationalization and localization, etc.
