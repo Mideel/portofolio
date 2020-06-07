@@ -1,9 +1,10 @@
 Hi, my name is Benny Susanto, I'm an experienced developer with various skills. 
 Mainly I use Java and Javascript as my primary language and backend/RESTful API development is my focus.
-But I can develop other applications with other languages too. 
+But I can develop other applications with other languages too.
+
+Email me at mideel_neutral@yahoo.com 
 
 Portofolio -> https://github.com/Mideel/portofolio
-
 
 Main Skills:
 _______________________________________________________________________________________________
