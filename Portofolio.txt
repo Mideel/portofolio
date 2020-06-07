@@ -16,68 +16,71 @@ Spring
 ***************************************************************************************************************
 
 - PB-Cloud, web services for sales application(minified due to the copyright issue)
-	https://github.com/PB-Cloud
+	-> https://github.com/PB-Cloud
 
 - Sunwell-POS, web services for a pos application(minified due to the copyright issue)
-	https://github.com/Sunwell-POS/web-service
+	-> https://github.com/Sunwell-POS/web-service
 
-- DANA project, web services for back office admin panel(code isn't available due to the copyright issue)
+- DANA project, web services for back office admin panel
+	-> (code isn't available due to the copyright issue)
 
 ________________________________________________________________________________________________________________
 Spring Boot
 ***************************************************************************************************************
 
 - PB-cloud, web services for sales application(minified due to the copyright issue)
-	https://github.com/PB-Cloud-2/
+	-> https://github.com/PB-Cloud-2/
 
 ________________________________________________________________________________________________________________
 Spring Microservices
 ***************************************************************************************************************
 
 - PB-cloud, web services for sales application(minified due to the copyright issue)
-	https://github.com/PB-Cloud-3
+	-> https://github.com/PB-Cloud-3
 
 ________________________________________________________________________________________________________________
 JEE
 ***************************************************************************************************************
 
 - Stonefire, web services for a food order application(minified due to the copyright issue)
-	https://github.com/PB-Cloud-2/pb-cloud-service
+	-> https://github.com/PB-Cloud-2/pb-cloud-service
 
 - Aegwyn, web services for a customer feedback application(minified due to copyright issue)
-	https://github.com/Aegwyn2/aegwyn
+	-> https://github.com/Aegwyn2/aegwyn
 
 ________________________________________________________________________________________________________________
 Android
 ***************************************************************************************************************
 
 - Stonefire, a food order mobile application(minified due to the copyright issue)
-	https://github.com/St0nefire/frontend-mobile
+	-> https://github.com/St0nefire/frontend-mobile
 
 - Sunwell-POS, a mobile POS application(minified due to the copyright issue)
-	https://github.com/Sunwell-POS/android
+	-> https://github.com/Sunwell-POS/android
 
 ________________________________________________________________________________________________________________
 JavaFX
 ***************************************************************************************************************
 
 - Suzanne-00, a desktop distributor information system(minified due to the copyright issue)
-	https://github.com/Suzanne-00/desktop
+	-> https://github.com/Suzanne-00/desktop
 
 ________________________________________________________________________________________________________________
 Swing
 ***************************************************************************************************************
 
-- Exerphi, distribution information system(code isn't available due to the copyright issue)
-- Apertura, hospital information system(code isn't available due to the copyright issue)
+- Exerphi, distribution information system
+	-> (code isn't available due to the copyright issue)
+- Apertura, hospital information system
+	-> (code isn't available due to the copyright issue)
 
 ________________________________________________________________________________________________________________
 Angular 4
 ***************************************************************************************************************
 
 - Stonefire, a food order web application(minified due to the copyright issue)
-	https://github.com/St0nefire/frontend-web
+	-> https://github.com/St0nefire/frontend-web
 - Aegwn, a customer feedback application written in Ionic and Angular 4(minified due to copyright issue)
-	https://github.com/Aegwyn2/feedback-ionic
+	-> https://github.com/Aegwyn2/feedback-ionic
 
 ________________________________________________________________________________________________________________

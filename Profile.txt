@@ -1,0 +1,95 @@
+Hi, my name is Benny Susanto, I'm an experienced developer with various skills. 
+Mainly I use Java and Javascript as my primary language and backend/RESTful API development is my focus.
+But I can develop other applications with other languages too. 
+Most of the codes provided in Github were taken from my real project but cut and minified due to the copyright issue. 
+However the code represented shows important parts to build a good application, 
+like security, validation, internationalization and localization, etc.
+
+Portofolio ->
+
+
+Main Skills:
+_______________________________________________________________________________________________
+Languages
+***********************************************************************************************
+- Java 3.5 out of 5
+- Javascript 3 out of 5
+- C++ 2.5 out 5
+- Swift 2 out 5
+- Bash Scripting 2 out of 5
+- PHP 2 out of 5
+
+- HTML 3 out of 5
+- CSS 2.5 out of 5
+_______________________________________________________________________________________________
+Frameworks/Libraries
+***********************************************************************************************
+- Spring 3 out of 5
+- Spring Boot 3 out of 5
+- Spring Cloud 2.5 out of 5
+- Android 3 out of 5
+- JavaFX 3 out of 5
+- Swing 3 out of 5
+- JEE 2.5 out of 5
+- Kafka 2 out of 5
+- Selenium 2 out of 5
+
+- Node.js 2.5 out of 5
+- React 2.5 out of 5
+- Angular 2.5 out of 5
+- Jquery 2.5 out of 5
+- Redux 2.5 out of 5
+
+- Laravel 2 out of 5
+
+- Qt 2 out of 5
+
+- Bootstrap 2.5 out of 5
+______________________________________________________________________________________________
+Tools
+***********************************************************************************************
+- Git 3 out of 5
+- Maven 3 out of 5
+- Jenkins 2.5 out of 5
+- Jmeter 2.5 out of 5
+- Linux 2.5 out of 5
+- AWS 2 out of 5
+- Docker 2 out of 5
+- Sonarqube 1.5 out of 5
+______________________________________________________________________________________________
+Databases
+***********************************************************************************************
+- PostgreSQL 3.5 out of 5
+- MySQL 3 out of 5
+- MongoDB 2 out of 5
+- Redis 2 out of 5
+______________________________________________________________________________________________
+Architecture
+***********************************************************************************************
+- OOP Concepts 4 out of 5
+- Design Pattern 3.5 out of 5
+- RESTful 3 out of 5
+- Microservices 2.5 out of 5
+- Security 2.5 out of 5
+- DevOps 2.5 out of 5
+______________________________________________________________________________________________
+SWEBOK
+***********************************************************************************************
+- Construction 3.5 out of 5
+- Design 3.5 out of 5
+- Methodology 3.5 out of 5
+- Maintenance 3.5 out of 5
+- Configuration Management 3 out of 5
+- Requirement 3 out of 5
+- Quality 2.5 out of 5
+- Testing 2.5 out of 5
+- Management 2 out of 5
+- Process 2 out of 5
+______________________________________________________________________________________________
+OTHERS
+***********************************************************************************************
+- Networking 2 out of 5
+- English 3 out of 5
+______________________________________________________________________________________________
+
+
