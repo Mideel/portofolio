@@ -5,7 +5,7 @@ Most of the codes provided in Github were taken from my real project but cut and
 However the code represented shows important parts to build a good application, 
 like security, validation, internationalization and localization, etc.
 
-Portofolio ->
+Portofolio -> https://github.com/Mideel/portofolio
 
 
 Main Skills:
@@ -29,7 +29,7 @@ Frameworks/Libraries
 - Spring Cloud 2.5 out of 5
 - Android 3 out of 5
 - JavaFX 3 out of 5
-- Swing 3 out of 5
+- Swing 3.5 out of 5
 - JEE 2.5 out of 5
 - Kafka 2 out of 5
 - Selenium 2 out of 5
